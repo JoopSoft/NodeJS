@@ -1,6 +1,5 @@
 const storage = require('./storage');
 
-
 storage.put("name", 111);
 // storage.put({test: "test"}, 10);
 
